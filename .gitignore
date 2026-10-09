@@ -1,0 +1,6 @@
+.env
+data/*.json
+data/*.tmp
+__pycache__/
+.DS_Store
+仕様.md
